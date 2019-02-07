@@ -1,0 +1,6 @@
+SPI.c:10:6:initSPI	40	static
+SPI.c:84:9:readSingleSPI	24	static
+SPI.c:113:6:readMultipleSPI	24	static
+SPI.c:131:6:writeSPI	24	static
+SPI.c:146:6:writeMultipleSPI	24	static
+SPI.c:162:6:swap	24	static

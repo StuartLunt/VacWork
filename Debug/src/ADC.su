@@ -1,0 +1,2 @@
+ADC.c:10:6:initADC	56	static
+ADC.c:44:10:readADC	8	static

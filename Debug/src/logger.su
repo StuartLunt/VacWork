@@ -1,0 +1,4 @@
+logger.c:16:6:loggingInit	96	static
+logger.c:104:6:DMA2_Stream7_IRQHandler	8	static
+logger.c:109:32:serialTerminal_packetize	88	static
+logger.c:152:6:USART_PackageData	24	static

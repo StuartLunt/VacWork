@@ -1,0 +1,5 @@
+usbd_cdc_vcp.c:89:17:VCP_Init	4	static
+usbd_cdc_vcp.c:99:17:VCP_DeInit	4	static
+usbd_cdc_vcp.c:112:17:VCP_Ctrl	24	static
+usbd_cdc_vcp.c:187:10:VCP_DataTx	24	static
+usbd_cdc_vcp.c:221:10:VCP_DataRx	24	static

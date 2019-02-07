@@ -1,0 +1,5 @@
+control.c:10:6:TIM7_INIT	24	static
+control.c:37:6:TIM7_NVIC_Init	16	static
+control.c:47:6:TIM7_IRQHandler	8	static
+control.c:53:5:start	4	static
+control.c:58:6:reset	4	static

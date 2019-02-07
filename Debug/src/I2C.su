@@ -1,0 +1,5 @@
+I2C.c:11:6:init_I2C3	32	static
+I2C.c:69:6:I2C_SelectRegister	16	static
+I2C.c:88:6:I2C_ReadIMU	24	static
+I2C.c:106:6:I2C_Read_Multiple	40	static
+I2C.c:133:6:I2C_WriteIMU	16	static
